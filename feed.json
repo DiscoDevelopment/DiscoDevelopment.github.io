@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SamDisco",
+    "description": "",
+    "home_page_url": "https://samdisco.com",
+    "feed_url": "https://samdisco.com/feed.json",
+    "user_comment": "",
+    "icon": "https://samdisco.com/media/website/Sam-Disco-2.png",
+    "author": {
+        "name": "Sam Disco"
+    },
+    "items": [
+    ]
+}
